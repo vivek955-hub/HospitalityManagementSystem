@@ -1,0 +1,22 @@
+# Compiled output
+bin/
+out/
+*.class
+
+# Project files and IDE-specific files
+.vscode/
+.project
+.classpath
+.settings/
+.idea/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# Temp files
+*.tmp
